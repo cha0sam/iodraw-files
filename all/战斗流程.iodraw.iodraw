@@ -80,7 +80,7 @@
         <mxCell id="UyENv7HFo8mYhWHKPonH-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;将弃牌堆洗为抽牌堆&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1083" y="750" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UyENv7HFo8mYhWHKPonH-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.352;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="UyENv7HFo8mYhWHKPonH-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.397;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="UyENv7HFo8mYhWHKPonH-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1193" y="676" as="sourcePoint" />
             <mxPoint x="1190" y="760" as="targetPoint" />
@@ -106,9 +106,6 @@
         </mxCell>
         <mxCell id="UyENv7HFo8mYhWHKPonH-65" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="700" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2qPZNzlsBYDW1F1grUc2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UyENv7HFo8mYhWHKPonH-66" target="UyENv7HFo8mYhWHKPonH-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UyENv7HFo8mYhWHKPonH-66" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1190" y="700" width="60" height="30" as="geometry" />
