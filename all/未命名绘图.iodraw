@@ -80,7 +80,7 @@
             <mxPoint x="1190" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2qPZNzlsBYDW1F1grUc2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UyENv7HFo8mYhWHKPonH-57" target="UyENv7HFo8mYhWHKPonH-67">
+        <mxCell id="2qPZNzlsBYDW1F1grUc2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UyENv7HFo8mYhWHKPonH-57" target="UyENv7HFo8mYhWHKPonH-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UyENv7HFo8mYhWHKPonH-57" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手牌是否有五张&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
