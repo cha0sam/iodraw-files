@@ -155,6 +155,10 @@
         <mxCell id="2qPZNzlsBYDW1F1grUc2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2qPZNzlsBYDW1F1grUc2-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1091.2857666015625" y="1336.5714808872767" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="1280" />
+              <mxPoint x="1091" y="1280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2qPZNzlsBYDW1F1grUc2-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;能量是否足够&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
