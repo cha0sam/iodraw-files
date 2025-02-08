@@ -218,6 +218,9 @@
         <mxCell id="2qPZNzlsBYDW1F1grUc2-44" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;点击回合结束按钮&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="1590" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2qPZNzlsBYDW1F1grUc2-47" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;敌方回合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="1910" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
