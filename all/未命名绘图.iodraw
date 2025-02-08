@@ -209,6 +209,9 @@
         <mxCell id="2qPZNzlsBYDW1F1grUc2-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;所有手牌&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;进&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;入弃牌堆&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2qPZNzlsBYDW1F1grUc2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2qPZNzlsBYDW1F1grUc2-40" target="2qPZNzlsBYDW1F1grUc2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2qPZNzlsBYDW1F1grUc2-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结算buff和效果&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -222,7 +225,7 @@
           <mxGeometry x="1110" y="1890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2qPZNzlsBYDW1F1grUc2-48" value="敌方格挡消失" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="936" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
